@@ -1,0 +1,9 @@
+Django==11.5.3
+PILLOW==1.2
+DJ-STATIC==0.0.6
+GUNICORN==18.0
+SIX==1.5.2
+STATIC3==0.5.1
+djangorestframework==2.3.14
+virtualenv==1.6.1
+wsgiref==0.1.2
