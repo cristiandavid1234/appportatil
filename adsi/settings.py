@@ -1,4 +1,4 @@
-# Django settings for Celulares project.
+# Django settings for portatil project.
 import os
 DEBUG = True
 TEMPLATE_DEBUG = DEBUG
