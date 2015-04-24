@@ -127,7 +127,7 @@ INSTALLED_APPS = (
     'django.contrib.admindocs',
     'portatil.apps.ventas',
     'portatil.apps.webservices.ws_services',
-    #'rest_framework',
+    'rest_framework',
     'gunicorn',
 )
 SESSION_SERIALIZER = 'django.contrib.sessions.serializers.JSONSerializer'
