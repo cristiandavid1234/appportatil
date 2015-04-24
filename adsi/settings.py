@@ -126,7 +126,7 @@ INSTALLED_APPS = (
     # Uncomment the next line to enable admin documentation:
     'django.contrib.admindocs',
     'portatil.apps.ventas',
-    'portatil.apps.webservices.ws_productos',
+    'portatil.apps.webservices.ws_services',
     #'rest_framework',
     'gunicorn',
 )
